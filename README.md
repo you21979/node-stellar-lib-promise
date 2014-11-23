@@ -1,4 +1,4 @@
-node-steller-lib-promise
+node-stellar-lib-promise
 ========================
 
 stellar-lib promise wrapper
